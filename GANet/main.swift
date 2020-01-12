@@ -8,8 +8,6 @@
 
 import Foundation
 
-print("Hello, World!")
-
 let system = System.shared
 system.initSetup()
 
